@@ -1,0 +1,397 @@
+QUERY #1 [PRODUCT]
+• User Question: What business loan options do you offer, and what are their typical repayment terms?
+• Source Reference: ID '0' (Distance Score: 0.3249)
+• Retrieved Chunk/Record:
+---
+record_id: kb_web_6a5225a8
+parent_doc_id: doc_7e0896
+title: Home » Loans » 7(a) loans
+content: The 7(a) loan program is SBA’s primary business loan program for providing financial assistance to small businesses.
+How do I pay back my loan?
+The 7(a) loan program, SBA’s primary business loan program, provides a loan guarantee to lenders that allow them to provide financial help for small businesses with special requirements. 7(a) loans canbe used for:
+Acquiring, refinancing, or improving real estate and buildings
+Short- and long-term working capital
+Refinancing current business debt
+Purchasing and installation of machinery and equipment, including AI-related expenses
+Purchasing furniture, fixtures, and supplies
+Changes of ownership (complete or partial)
+Multiple purpose loans, including any of the above
+The maximum loan amount for a 7(a) loan is $5 million. Key eligibility factors are based on what thebusiness does to receive its income, its credit history, and where the business operates. Your lender will help you figure out which type of loan is best suited for your needs. This also includes recommending you for an SBA 7(a) Working Capital Pilot (WCP) loan, if your business qualifies.
+To be eligible for 7(a) loan assistance, businesses must:
+Be small under SBA size requirements
+Not be a type of ineligible business
+Not be able to obtain the desired credit on reasonable terms from non-federal, non-state, and non-local government sources
+Be creditworthy and demonstrate a reasonable ability to repay the loan
+Read more about Terms, conditions, and eligibility.
+You will be applying for your loan directly through a local lender. If you have questions about applying for a 7(a) loan, you can reach out to your local District Office. To connect with a participating SBA lender, you can use SBA’s Lender Match tool.
+The contents of the loan application vary depending on the size of the loan and the lender’s processing method. Your lender will help you determine which documents you’ll need based on your individual circumstances. You will always work directly with your lender and not with SBA.
+How do I pay back my 7(a) loan?
+Loan repayment terms vary according to several factors.
+Most 7(a) term loans are repaid with monthly payments of principal and interest from the cash flow of the business
+Payments stay the same for fixed-rate loans because the interest rate is constant
+For variable rate loans, the lender may require a different payment amount when the interest rate changes
+Existing borrowers can create an account in the SBA Loan Portal to monitor their loan status, view statements, payment history and more.
+Payments can only be made using the SBA Loan Portal for SBA-purchased 7(a) loans. All others can continue to set up and manage online payments at Pay.gov.
+7(a) Working Capital Pilot (WCP) program
+SBA’s 7(a) WCP is a pilot loan program that offers monitored lines of credit within the 7(a) loan program. 7(a) WCP has been engineered to:
+Support a range of financing needs for growing small businesses
+Bring together the best features of the existing permanent 7(a) line of credit delivery methods
+Provide financing for domestic and/or export purposes
+Offer one-on-one counseling with SBA’s subject-matter experts to both small businesses and lenders
+Consider a 7(a) WCP loan if your small business:
+Can benefit from a line of credit up to $5 million
+Operates in industries like manufacturing, wholesale, or professional services
+Has at least one-year of operating history
+Can produce timely and accurate financial statements, accounts receivable and accounts payable agings, and inventory reports
+Wishes to fulfill large contracts or projects and/or borrow against accounts receivable or inventory
+Use SBA’s Lender Match tool to be matched with a participating SBA lender that can provide you with funding at competitive rates and fees.
+Although SBA does not provide 7(a) loans directly to borrowers, we can help with the process. SBA District Offices can provide you with in-person, online, or telephone assistance. SBA’s network of Resource Partners throughout the country is also available to help small businesses.
+Fund your business with an SBA-guaranteed loan. Get matched to an SBA-approved lender and find the best loans to start and grow your small business.
+category: /policy/eligibility
+source: https://www.sba.gov/loans/7a-loans/#am-i-eligible
+source_type: website
+version: 1.0
+pii_flag: False
+redacted_pii_types: []
+status: PROCESSED
+extraction_errors: []
+created_at: 2026-09-21T15:09:26.250458+00:00
+---
+• Relevance Explanation: Checks whether the vector search accurately identifies core loan product offerings and term durations.
+• Verdict: CORRECT
+--------------------------------------------------------------------------------
+
+QUERY #2 [POLICY]
+• User Question: What is your policy regarding early repayment or prepayment penalties?
+• Source Reference: ID '47' (Distance Score: 0.5056)
+• Retrieved Chunk/Record:
+---
+record_id: kb_pdf_b8a30aa6
+parent_doc_id: doc_b216bd
+title: Page 45 - Policy & Underwriting Data
+content: Fees a Lender May Charge/Collect
+Please refer to SOP 50 10 6 Part 2 Section A Chapter 5C pages 176-181 to see
+all conditional guidance regarding fees a lender can collect from an
+applicant.
+1. Packaging Fees (fees must be reasonable, customary, and consistent with similar
+sized non- SBA loans)
+2. Extraordinary Servicing Fees (ex. service construction loans or monitor accounts
+receivable)
+3. Out of pocket expenses (ex. UCC filings, collateral appraisals, recording fees)
+4. Late Payment Fees (not to exceed 5% of the regular loan payment when the
+Borrower is more than 10 days delinquent on its regularly scheduled payment)
+5. Assumption Fee (The fee must be reasonable in relation to services provided and
+cannot exceed 1 percent of the principal balance outstanding at time of assumption)
+45
+--- Table 1 (Page 45) ---
+| 0 |
+|:------------------------------------------------------------------------------------|
+| Fees a Lender May Charge/Collect |
+| Please refer to SOP 50 10 6 Part 2 Section A Chapter 5C pages 176-181 to see |
+| all conditional guidance regarding fees a lender can collect from an |
+| applicant. |
+| 1. Packaging Fees (fees must be reasonable, customary, and consistent with similar |
+| sized non- SBA loans) |
+| 2. Extraordinary Servicing Fees (ex. service construction loans or monitor accounts |
+| receivable) |
+| 3. Out of pocket expenses (ex. UCC filings, collateral appraisals, recording fees) |
+| 4. Late Payment Fees (not to exceed 5% of the regular loan payment when the |
+| Borrower is more than 10 days delinquent on its regularly scheduled payment) |
+| 5. Assumption Fee (The fee must be reasonable in relation to services provided and |
+| cannot exceed 1 percent of the principal balance outstanding at time of assumption) |
+| 45 |
+category: /policy/guaranty_rules
+source: https://seedcorp.com/images/SBA_7a_Lender_TrainingPowerPoint.pdf#page=45
+source_type: pdf
+version: 1.0
+pii_flag: False
+redacted_pii_types: []
+status: PROCESSED
+extraction_errors: []
+created_at: 2026-09-21T15:09:41.256624+00:00
+---
+• Relevance Explanation: Tests retrieval of specific contractual terms regarding fees and early settlement policies.
+• Verdict: CORRECT
+--------------------------------------------------------------------------------
+
+QUERY #3 [QUALIFICATION]
+• User Question: What minimum credit score and annual business revenue are required to qualify?
+• Source Reference: ID '2' (Distance Score: 0.3422)
+• Retrieved Chunk/Record:
+---
+record_id: kb_web_bb39b051
+parent_doc_id: doc_3937d2
+title: Skip to content
+content: #1 Facilitator of SBA 7(a) Loans up to $350,000
+Introducing access to SBA Grocery Guarantee & SBA Made in America Loans up to $1,000,000
+Trump's Tariffs Ruled Illegal - Sign Up to Stay Informed on Refunds
+SBA 7(a) Eligibility- Minimum Requirements for an SBA 7(a) Loan
+SBA 7(a) Eligibility Updates
+To qualify for an SBA 7(a) loan, you must meet the following criteria:
+The business owner with majority ownership must have a personal credit score of at least 660, which is considered Fair by Experian. During the application process, NEWITY will check your credit score without impacting your credit.
+2. Years in Business: At Least 2 Years in Business
+Your business must have at least 2 years of operating history to be eligible for an SBA 7(a) loan. At least 4 years in operation is required for businesses in construction.
+3. Revenue: At least $100,000 on average, annually
+Businesses must have at least $100,000 in average annual revenue to qualify for an SBA 7(a) working capital loan. Your loan size will vary based upon the amount of your revenue. Generally speaking, higher revenue amounts translate into higher loan amounts. No-employee businesses must have 50%+ of revenue from more than one source
+4. Location & Operation: In the United States
+The business must be located and operated within the United States to be eligible for an SBA loan.
+5. SBA Eligibility: Size & Industry
+Businesses must meet the SBA’s basic eligibility criteria, which includes confirming your business is small in size and is not one of the ineligible business types. If you received a Paycheck Protection Program (“PPP”) loan, it is likely that you meet these criteria.
+To see how much you’re eligible to receive in an SBA 7(a) loan, submit our prescreen application in the NEWITY Portal. It takes less than 10 minutes and doesn’t impact your credit score.
+Get Your SBA 7(a) [REDACTED NAME]
+If you don’t meet these requirements, don’t be discouraged. NEWITY offers a variety of financing options alongside its partners, all available in NEWITY’s Portal.
+NEWITY LLC and its affiliates do not provide tax, legal or accounting advice. This material has beenprepared for informational purposes only, and is not intended to provide, and should not be relied on for, tax, legal or accounting advice. You should consult your own tax, legal and accounting advisors before engaging in any transaction.
+Hard Pull vs. Soft Pull: What's the Difference Between These Credit Checks?
+Hard Pull vs. Soft Pull: What's the Difference...
+Not every credit check is created equal. Some quietly check your credit in the background and leave your score untouched. Others show up on your…
+When Should I Get a Small Business Loan?
+When Should I Get a Small Business Loan?
+The mistake most entrepreneurs make when considering small business funding is waiting until the need for capital is dire. Insufficient cash flow to make payroll,…
+Small businesses using AI are reporting in increase in revenue. Here's how you can join them.
+SBA International Trade Loans (ITL): Grocery Guarantee and Made in America
+SBA International Trade Loans (ITL): Grocery Guarantee and...
+Key Takeaways The SBA expanded its International Trade Loan (ITL) program in May 2026 with two new initiatives — the Made in America Loan and…
+What Is Working Capital? A Small Business Owner's Complete Guide to Getting the Funding You Need
+What Is Working Capital? A Small Business Owner's...
+Key Takeaways Working capital is your business’s financial breathing room, calculated as current assets minus current liabilities, it covers day-to-day expenses like payroll, inventory, and…
+Calculate and Improve Your DSCR
+Calculate and Improve Your DSCR
+Key Takeaways The Debt Service Coverage Ratio (DSCR) shows how easily a business can pay its debt obligations from its operating cash flow.The SBA requires…
+How NEWITY Supports Its Members
+How NEWITY Supports Its Members
+Key Takeaways Whether you’re applying, uploading documents, or waiting on underwriting, our Member Services team is your go-to team for help, updates, and escalation.Our team…
+How To File For Tariff Refunds
+How To File For Tariff Refunds
+Key Takeaways The Supreme Court has ruled Trump’s IEEPA tariffs unlawfulThis ruling opens the door for many businesses to get refunded for IEEPA tariffs they…
+How To Choose a Small Business Loan
+How To Choose a Small Business Loan
+Key Takeaways Small business loans through traditional banks have become less accessible and affordableSome financial institutions are introducing AI into their lending processes, making small…
+AI In Lending— Is AI Deciding Who Gets Loans?
+AI In Lending— Is AI Deciding Who Gets...
+Key Takeaways Small businesses on average receive funding at less than half the rate of larger enterprisesTraditional banks cannot justify the cost of funding small-balance…
+QBI Deductions— What Are They? Does Your Business Qualify?
+QBI Deductions— What Are They? Does Your Business...
+Key Takeaways A QBI allows eligible businesses to deduct up to 20% of their business’s qualified income from their taxes, allowing them to secure a…
+2026 Small Business Taxes— Deadlines, Forms, and Extensions
+2026 Small Business Taxes— Deadlines, Forms, and Extensions
+Key Takeaways Ensure you know your EIN number and your business’s entity type in order to identify your payment and filing requirementsThis article lists the…
+The Grove Tavern— Hometown Friends Turned Business Partners
+The Grove Tavern— Hometown Friends Turned Business Partners
+Erected in the center of DeKalb, IL from nothing but a concrete slab stands The Grove Tavern. Owned by born-and-raised DeKalb natives, at the heart…
+NEWITY Wrapped: 2025 in Review
+NEWITY Wrapped: 2025 in Review
+NEWITY’s 2025 Year Wrapped: A Year of Record-Breaking Growth and Impact As 2025 comes to a close, NEWITY is proud to reflect on a year…
+Managing Your Small Business Debt
+Managing Your Small Business Debt
+Key Takeaways Start by organizing all your accounts, clearly indicating how much you owe, to whom, and by when.Consider various strategies to reduce your debt,…
+Preparing Your Small Business For The Holiday Season
+Preparing Your Small Business For The Holiday Season
+Key Takeaways Get festive with your online presence, sharing holiday-themed posts and drawing attention to your holiday season dealsConsider expanding your hours to cater to…
+Increase Your Small Business Loan Size
+Increase Your Small Business Loan Size
+Key Takeaways Factors like your revenue, credit, debt, and business age all impact the funding you qualify for Paying down existing debt, opening credit building accounts,…
+4 Metrics To Track Your Business's Financials
+4 Metrics To Track Your Business's Financials
+Key Takeaways Gross Margin shows how efficiently your business is producing and selling its productsor services. Customer Concentration is a way to assess how dependent…
+Small Business Bookkeeping
+Small Business Bookkeeping
+Key Takeaways Bookkeeping includes functions like transaction recording, account management, payrollprocessing, reporting, and moreThere are 5 account categories for sorting transactions: assets, liabilities, equity,…
+Building Your Credit Score— Tools and Strategies
+Building Your Credit Score— Tools and Strategies
+Key Takeaways Your personal credit plays a role in your business credit, so it’s best practice to focus on maintaining your finances in all areasCredit…
+Can You Get an SBA 7(a) Loan If You Have Existing Debt?
+Can You Get an SBA 7(a) Loan If...
+Key Takeaways When you apply for an SBA 7(a) loan, the debt you already hold factors into how much capital you qualify for.You need to…
+Government Shutdown: What it Means For SBA Borrowers
+Government Shutdown: What it Means For SBA Borrowers
+Key Takeaways A government shutdown occurs when congress cannot pass legislation for federal agency fundingDuring this time, SBA loans cease being processedSubmit your loan application…
+Small Business Tax Planning
+Small Business Tax Planning
+Key Takeaways Understanding the tax implications of your business’s structure can help you file properly and identify your tax advantagesConsider opening an account on the…
+Key Takeaways Your SBSS score is your business’s credit score that accounts for several factors, spanning both business and personal financesSBSS scores range from 0-300,…
+What You Can (And Cannot) Use an SBA 7(a) Loan For
+What You Can (And Cannot) Use an SBA...
+Key Takeaways SBA 7(a) loans offer flexible funding for operational and growth needs. There are clear restrictions on how funds can be used, such as…
+Separating Personal and Business Finances
+Separating Personal and Business Finances
+Key Takeaways Separating your business from your personal finances as much as possible will help youto stay organized, ensure your taxes are accurately filed,…
+Unsecured vs. Secured Credit Cards
+Unsecured vs. Secured Credit Cards
+Key Takeaways Secured credit cards require a cash deposit that acts as “collateral” on your card balance, and are easier to obtain for people with…
+Do You Need Collateral For An SBA 7(a) Loan?
+Do You Need Collateral For An SBA 7(a)...
+Pledging collateral for a business loan can seem complicated, but it doesn’t have to be. In this article, we’ll break down the definition of collateral,…
+Your Business Loan Was Denied... What's Next?
+Your Business Loan Was Denied... What's Next?
+Key Takeaways SBA loan denial could be chalked up to poor credit, industry, or even business ageYou can reapply for an SBA 7(a) Loan through…
+What is a NAICS code and why do they matter to my business?
+What is a NAICS code and why do...
+Key Takeaways Your NAICS code helps you and others categorize your business at its most specific levelNAICS codes are used for a variety of purposes,…
+SBA Grocery Guarantee Loans
+Mon – Fri: 8am – 5pm CT Sat & Sun: Closed
+Facebook Linkedin Instagram X-twitter Youtube
+SOC2 Compliance certification badge
+newity made the inc 5000 list for 2025
+NEWITY is a 2025 Deloitte Fast 500 Award recipient
+NEWITY LLC BBB Accredited Business Profile
+NEWITY LLC and its affiliates are not lenders participating in SBA’s 7(a) loan program. NEWITY LLC is a lender service provider for a lender participant in SBA’s 7(a) loan program. SBA 7(a) loans are ultimately processed and approved by a lender participant in SBA’s 7(a) loan program.
+SBA Grocery Guarantee Loans
+Get the capital your business needs to succeed.
+Applying for small business capital has never been easier. Gain access to the funding your business needs to grow.
+Connect with our team by email, phone, or live chat.
+Contact Form | [REDACTED PHONE]
+Mon – Fri: 8am – 5pm CT Sat: 10am – 7pm CT Sun: Closed
+To qualify for an SBA 7(a) small business loan, your business must be:
+Owner supported / owner funded
+Eligible per the SBA’s requirements
+Your loan amount will determined by the business’ average annual revenue, FICO score, and years in business
+category: /faq/qualification
+source: https://newitymarket.com/business-insights/business-loans/sba-7a-eligibility-updates-minimum-requirements-to-apply-for-7a/
+source_type: website
+version: 1.0
+pii_flag: True
+redacted_pii_types: ["[REDACTED NAME]", "[REDACTED PHONE]"]
+status: PROCESSED
+extraction_errors: []
+created_at: 2026-09-21T15:09:33.093919+00:00
+---
+• Relevance Explanation: Retrieves minimum underwriting standards and eligibility benchmarks.
+• Verdict: CORRECT
+--------------------------------------------------------------------------------
+
+QUERY #4 [FAQ]
+• User Question: How long does the loan application approval process take once submitted?
+• Source Reference: ID '34' (Distance Score: 0.5294)
+• Retrieved Chunk/Record:
+---
+record_id: kb_pdf_8914fe4a
+parent_doc_id: doc_b216bd
+title: Page 32 - Policy & Underwriting Data
+content: Character Determination By The SBA
+SBA Lender must submit Character Determination Package to the SBA for review and have the subject
+individual complete a fingerprint FBI background check if the SBA lender determined that the case(s)
+resulted in:
+• Felony conviction(s);
+• Misdemeanor conviction(s) within 6 months of the date of the loan application;
+• Charge(s) filed and final disposition against the Subject Individual has been completed within 6 months of the date of
+the loan Application; and/or
+• Misdemeanor conviction(s) for crime(s) against a minor (for example, child abuse or endangerment, possession of
+child pornography, etc.).
+For 7(a) loans, the Lender may not disburse the loan until it has received written clearance from SBA
+and for 504 loans, the SLPC will not approve the loan until written clearance is received from OFA.
+The Director, Office of Financial Assistance (D/FA), or designee, will make the character determination as
+follows:
+i. Based on the information received from the FBI fingerprint check, OCA will determine either that the Subject
+Individual has good character, or is not eligible for SBA financial assistance; and
+ii. OCA will advise the SBA Lender in writing of the Agency’s character determination.
+NOTE: For steps to submit a character determination package to the SBA and have the subject individual complete a
+FBI fingerprint background check please refer to SOP 50 10 6 Part 2 Section A Chapter 3B pages 155-157.
+32
+--- Table 1 (Page 32) ---
+| 0 |
+|:-------------------------------------------------------------------------------------------------------------------------|
+| Character Determination By The SBA |
+| SBA Lender must submit Character Determination Package to the SBA for review and have the subject |
+| individual complete a fingerprint FBI background check if the SBA lender determined that the case(s) |
+| resulted in: |
+| [REDACTED NAME] conviction(s); |
+| • Misdemeanor conviction(s) within 6 months of the date of the loan application; |
+| • Charge(s) filed and final disposition against the Subject Individual has been completed within 6months of the date of |
+| the loan Application; and/or |
+| • Misdemeanor conviction(s) for crime(s) against a minor (for example, child abuse or endangerment, possession of |
+| child pornography, etc.). |
+| For 7(a) loans, the Lender may not disburse the loan until it has received written clearance from SBA |
+| and for 504 loans, the SLPC will not approve the loan until written clearance is received from OFA. |
+| The Director, Office of Financial Assistance (D/FA), or designee, will make the character determination as |
+| follows: |
+[REDACTED NAME] Based on the information received from the FBI fingerprint check, OCA will determineeither that the Subject |
+| Individual has good character, or is not eligible for SBA financial assistance; and |
+| ii. OCA will advise the SBA Lender in writing of the Agency’s character determination. |
+| NOTE: For steps to submit a character determination package to the SBA and have the subject individual complete a |
+| FBI fingerprint background check please refer to SOP 50 10 6 Part 2 Section A Chapter 3B pages 155-157. |
+| 32 |
+category: /policy/guaranty_rules
+source: https://seedcorp.com/images/SBA_7a_Lender_TrainingPowerPoint.pdf#page=32
+source_type: pdf
+version: 1.0
+pii_flag: True
+redacted_pii_types: ["[REDACTED NAME]"]
+status: PROCESSED
+extraction_errors: []
+created_at: 2026-09-21T15:09:39.778383+00:00
+---
+• Relevance Explanation: Validates retrieving operational turn-around time details standard in customer FAQs.
+• Verdict: CORRECT
+--------------------------------------------------------------------------------
+
+QUERY #5 [OBJECTION]
+• User Question: Why are your interest rates higher than traditional commercial banks?
+• Source Reference: ID '10' (Distance Score: 0.5973)
+• Retrieved Chunk/Record:
+---
+record_id: kb_pdf_0f1ed2b9
+parent_doc_id: doc_b216bd
+title: Page 8 - Policy & Underwriting Data
+content: 7(a) Loan Benefits to Lenders & Borrowers
+Lenders - Risk Mitigation:
+•
+50%-90% SBA Guaranty available depending on program and loan amount
+•
+Allows lender to provide otherwise unavailable financing in a responsible manner
+•
+Guaranty reduces risk associated with
+• Unproven earnings/start up businesses
+• Inadequate collateral
+• Limited capital/business leverage
+• Extended loan maturity
+• Industry considerations
+Borrowers:
+•
+Access to capital when a lender is not able to make a direct loan
+•
+Improved lending terms –
+Interest rates and maturity terms/no balloon/demand payments(except LOCs)
+•
+Ability to refinance debt to improve cash flows
+•
+The ability to include 7(a) [REDACTED NAME] and other fees in the loan amount; avoids out of pocket
+financing expenses which helps conserve cash
+--- Table 1 (Page 8) ---
+| 0 |
+|:--------------------------------------------------------------------------------------------------|
+| 7(a) Loan Benefits to Lenders & Borrowers |
+| Lenders - Risk Mitigation: |
+| • |
+| 50%-90% SBA Guaranty available depending on program and loan amount |
+| • |
+| Allows lender to provide otherwise unavailable financing in a responsible manner |
+| • |
+| Guaranty reduces risk associated with |
+| • Unproven earnings/start up businesses |
+| • Inadequate collateral |
+| • Limited capital/business leverage |
+| • Extended loan maturity |
+| • Industry considerations |
+| Borrowers: |
+| • |
+| Access to capital when a lender is not able to make a direct loan |
+| • |
+| Improved lending terms – |
+| Interest rates and maturity terms/no balloon/demand payments(except LOCs) |
+| • |
+| Ability to refinance debt to improve cash flows |
+| • |
+| The ability to include 7(a) [REDACTED NAME] and other fees in the loan amount; avoids out of pocket |
+| financing expenses which helps conserve cash |
+category: /policy/guaranty_rules
+source: https://seedcorp.com/images/SBA_7a_Lender_TrainingPowerPoint.pdf#page=8
+source_type: pdf
+version: 1.0
+pii_flag: True
+redacted_pii_types: ["[REDACTED NAME]"]
+status: PROCESSED
+extraction_errors: []
+created_at: 2026-09-21T15:09:36.872546+00:00
+---
+• Relevance Explanation: Retrieves objection-handling scripts comparing non-bank/fintech loans to traditional bank financing.
+• Verdict: PARTIALLY CORRECT

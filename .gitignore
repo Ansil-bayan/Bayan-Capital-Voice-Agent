@@ -1,0 +1,35 @@
+# --- Environment / secrets ---
+.env
+*.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# --- Project-specific ---
+chroma_db/
+*.wav
+*.mp3
+baseline_transcript.txt
+nudge_aware_transcript.txt
+
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log

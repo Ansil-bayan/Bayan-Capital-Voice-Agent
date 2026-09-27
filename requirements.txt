@@ -1,0 +1,18 @@
+# --- vapi_server.py ---
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+httpx
+
+# --- setup_vapi.py ---
+requests
+python-dotenv
+
+# --- pipeline_runner.py (offline test rig, legacy) ---
+faster-whisper
+websockets
+numpy
+
+# --- test_harness.py (offline nudge-comparison test) ---
+openai
