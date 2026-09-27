@@ -9,18 +9,16 @@ opportunities, payment difficulty) based on what the customer is saying.
 
 **Creating Knowledge Base**
 
-[![Watch the Video](https://github.com/user-attachments/assets/91cd0eb1-5af4-4a9f-9502-af0bf6049785)]([JAM_VIDEO_URL](https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16))
+[![Watch the Video](https://github.com/user-attachments/assets/91cd0eb1-5af4-4a9f-9502-af0bf6049785)](https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16)
 
 
 
 
 **Creating Voice Agent**
 
-[![Watch the Video](![https://github.com/user-attachments/assets/a5d443e1-5437-4a41-84ed-d6831460f663]()
-)](https://jam.dev/c/7acdfca7-78c4-4480-92e9-31022b2549c4)
+[![Watch the Video](https://github.com/user-attachments/assets/a5d443e1-5437-4a41-84ed-d6831460f663)](https://jam.dev/c/7acdfca7-78c4-4480-92e9-31022b2549c4)
 
 
-https://jam.dev/c/7acdfca7-78c4-4480-92e9-31022b2549c4
 
 ## Architecture
 
