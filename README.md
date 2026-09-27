@@ -67,18 +67,6 @@ Two subsystems, wired together through one webhook server:
   `nudge_aware_transcript.txt`) using Groq's OpenAI-compatible API, so
   you can sanity-check nudge behavior before spending real Vapi minutes.
 
-## Demo
-
-# Creating Knowledge Base
-
-<img width="1020" height="467" alt="image" src="https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16" />
-
-
-# Creating Voice Agent
-
-
-https://jam.dev/c/7acdfca7-78c4-4480-92e9-31022b2549c4
-
 
 ## Setup
 
